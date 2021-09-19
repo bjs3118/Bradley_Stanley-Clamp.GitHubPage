@@ -4,6 +4,7 @@ In Order of most recent projects first:
 
 Mars Rover Project: https://github.com/IBricchi/SpaceXpp
 
+    Video of project: https://www.youtube.com/watch?v=T8w77XG1Lx
     My work for this project covered the server and front-end website and communication between hardware, server and website.
     Coding languages: Golang, JS, HTML, CSS and C++
 
