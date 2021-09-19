@@ -1,6 +1,6 @@
-# Bradley_Stanley-Clamp.GitHubPage
+# Bradley_Stanley-Clamps Projects
 
-In Order of most recent first: 
+In Order of most recent projects first: 
 
 Mars Rover Project: https://github.com/IBricchi/SpaceXpp
 
