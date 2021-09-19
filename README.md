@@ -10,12 +10,14 @@ Mars Rover Project: https://github.com/IBricchi/SpaceXpp
 
 Poker Game Project: https://github.com/IBricchi/GamblingFPGAs
 
-    For this project I worked on programming the FPGA hardware to allow certain actions to buttons and accelerometers to send signals to the server. I also created programs to run     on the FPGA 
+    For this project I worked on programming the FPGA hardware to allow certain actions to buttons and accelerometers to send signals to the server. 
+    I also created the programs to run on the FPGA.
     Coding languages: Verilog, C, C++
     
 C90 to MIPS Compiler: (Repository private for university assesment)
 
-    This project was largely programmed in C++. Myself and my teammate worked together to lexer, parse and generate the MIPS code. I concentrated on the syntax tree and code generation.
+    This project was largely programmed in C++. Myself and my teammate worked together to lexer, parse and generate the MIPS code. 
+    I concentrated on the syntax tree and code generation.
     Coding languages: C++, Yacc, Shell, Lex, Makefile
     
 synthesisable MIPS-compatible CPU: https://github.com/xw2519/ISA-MIPS-coursework
