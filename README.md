@@ -2,11 +2,15 @@
 
 In Order of most recent projects first: 
 
+HackZurich hackathon project (ConstrAPPI):https://devpost.com/software/makingconstructionhealthy#updates
+    I built the API as well as assiting on the innovation process
+    Coding languges GOlang
+
 Mars Rover Project: https://github.com/IBricchi/SpaceXpp
 
     Video of project: https://www.youtube.com/watch?v=T8w77XG1Lxw
     My work for this project covered the server and front-end website and communication between hardware, server and website.
-    Coding languages: Golang, JS, HTML, CSS and C++
+    Coding languages: GOlang, JS, HTML, CSS and C++
 
 Poker Game Project: https://github.com/IBricchi/GamblingFPGAs
 
