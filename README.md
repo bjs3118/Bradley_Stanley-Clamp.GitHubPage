@@ -2,7 +2,7 @@
 
 In Order of most recent projects first: 
 
-HackZurich hackathon project (ConstrAPPI):https://devpost.com/software/makingconstructionhealthy#updates
+HackZurich hackathon project (ConstrAPPI):https://devpost.com/software/makingconstructionhealthy
 
     I built the API as well as assisting on the innovation process
     Coding languges: GOlang
